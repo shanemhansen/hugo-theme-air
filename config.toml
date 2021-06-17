@@ -14,7 +14,7 @@ canonifyurls = true
 
 [params]
   description = "this is my description"
-  cover = "images/user.jpg"
+  cover = "images/user.png"
   author = "syui"
   authorlocation = ""
   authorwebsite = "https://syui.cf/hugo-theme-air"
